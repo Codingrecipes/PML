@@ -1,0 +1,23 @@
+I finally decided to release PML as an open source software. I developed this template engine for a project that unfortunately never happened using Python.
+Here is a sample application using PML and Yahoo! Search API:
+http://web-search.code-head.com/
+
+The web search example is also included in the download.
+PML was written to be fast, simple and compact. Here are some of it’s features:
+
+1 – Template filters
+2 – Output filters
+3 – Template variable filters
+4 – Template cache – default
+5 – Bytecode cache – default
+6 – Complete output buffer cache
+7 – Garbage collection
+8 – Output compression – GZIP
+9 – A powerful, quick compiler
+10 – Ability to add helpers easily
+11 – Ability to add custom compiler tags
+12 – Auto escaping your variables, even lists, dicts, and tuples
+13 – Compile templates once until you edit them
+And more.
+
+The web search application above is included in your download and it demonstrates almost all the aspects of this powerful template engine.
