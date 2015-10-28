@@ -3,21 +3,21 @@ Here is a sample application using PML and Yahoo! Search API:
 http://web-search.code-head.com/
 
 The web search example is also included in the download.
-PML was written to be fast, simple and compact. Here are some of itÕs features:
+PML was written to be fast, simple and compact. Here are some of itï¿½s features:
 
-1 Ð Template filters
-2 Ð Output filters
-3 Ð Template variable filters
-4 Ð Template cache Ð default
-5 Ð Bytecode cache Ð default
-6 Ð Complete output buffer cache
-7 Ð Garbage collection
-8 Ð Output compression Ð GZIP
-9 Ð A powerful, quick compiler
-10 Ð Ability to add helpers easily
-11 Ð Ability to add custom compiler tags
-12 Ð Auto escaping your variables, even lists, dicts, and tuples
-13 Ð Compile templates once until you edit them
+1 - Template filters
+2 - Output filters
+3 - emplate variable filters
+4 - Template cache - default
+5 - Bytecode cache - default
+6 - Complete output buffer cache
+7 - Garbage collection
+8 - Output compression - GZIP
+9 - A powerful, quick compiler
+10 - Ability to add helpers easily
+11 - Ability to add custom compiler tags
+12 - Auto escaping your variables, even lists, dicts, and tuples
+13 - Compile templates once until you edit them
 And more.
 
 The web search application above is included in your download and it demonstrates almost all the aspects of this powerful template engine.
